@@ -1,0 +1,88 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.2 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="25.0.2">
+  <diagram name="Page-1" id="tOREIqjbhrJVnliUjCor">
+    <mxGraphModel dx="1036" dy="786" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Vg6k-1ELXh36zQkVJUQH-6" value="Player" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="128" y="139" width="197" height="143" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg6k-1ELXh36zQkVJUQH-7" value="Own a company or as customer" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;resizeHeight=0;fixedWidth=0;" vertex="1" parent="Vg6k-1ELXh36zQkVJUQH-6">
+          <mxGeometry y="26" width="197" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg6k-1ELXh36zQkVJUQH-9" value="Manage production" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Vg6k-1ELXh36zQkVJUQH-6">
+          <mxGeometry y="53" width="197" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg6k-1ELXh36zQkVJUQH-11" value="Compete in PvP" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Vg6k-1ELXh36zQkVJUQH-6">
+          <mxGeometry y="83" width="197" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg6k-1ELXh36zQkVJUQH-12" value="Sell products" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Vg6k-1ELXh36zQkVJUQH-6">
+          <mxGeometry y="113" width="197" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg6k-1ELXh36zQkVJUQH-18" value="BUSINESS &amp; PRODUCTION" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="400" y="150" width="211" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg6k-1ELXh36zQkVJUQH-19" value="Import raw materials" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Vg6k-1ELXh36zQkVJUQH-18">
+          <mxGeometry y="26" width="211" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg6k-1ELXh36zQkVJUQH-20" value="Produce product as NFT" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Vg6k-1ELXh36zQkVJUQH-18">
+          <mxGeometry y="56" width="211" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg6k-1ELXh36zQkVJUQH-21" value="Manage resources" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Vg6k-1ELXh36zQkVJUQH-18">
+          <mxGeometry y="86" width="211" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg6k-1ELXh36zQkVJUQH-22" value="EARNING IN-GAME MONEY " style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fixedWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="285" width="210" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg6k-1ELXh36zQkVJUQH-23" value="Sell NFT product for COF" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Vg6k-1ELXh36zQkVJUQH-22">
+          <mxGeometry y="26" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg6k-1ELXh36zQkVJUQH-24" value="Complete orders" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Vg6k-1ELXh36zQkVJUQH-22">
+          <mxGeometry y="56" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg6k-1ELXh36zQkVJUQH-26" value="USING COF" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fixedWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="394" width="210" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg6k-1ELXh36zQkVJUQH-27" value="Buy raw materials" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Vg6k-1ELXh36zQkVJUQH-26">
+          <mxGeometry y="26" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg6k-1ELXh36zQkVJUQH-28" value="Expand the company" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Vg6k-1ELXh36zQkVJUQH-26">
+          <mxGeometry y="56" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg6k-1ELXh36zQkVJUQH-29" value="MARKETPLACE" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fixedWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="510" width="210" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg6k-1ELXh36zQkVJUQH-30" value="Sell NFT product" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Vg6k-1ELXh36zQkVJUQH-29">
+          <mxGeometry y="26" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg6k-1ELXh36zQkVJUQH-31" value="Swap COF&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;→ CAF&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Vg6k-1ELXh36zQkVJUQH-29">
+          <mxGeometry y="56" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg6k-1ELXh36zQkVJUQH-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="Vg6k-1ELXh36zQkVJUQH-6" target="Vg6k-1ELXh36zQkVJUQH-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="287" as="sourcePoint" />
+            <mxPoint x="250" y="237" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vg6k-1ELXh36zQkVJUQH-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="Vg6k-1ELXh36zQkVJUQH-18" target="Vg6k-1ELXh36zQkVJUQH-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="335" y="347" as="sourcePoint" />
+            <mxPoint x="434" y="276" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vg6k-1ELXh36zQkVJUQH-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="Vg6k-1ELXh36zQkVJUQH-22" target="Vg6k-1ELXh36zQkVJUQH-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="335" y="389" as="sourcePoint" />
+            <mxPoint x="410" y="368" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vg6k-1ELXh36zQkVJUQH-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="Vg6k-1ELXh36zQkVJUQH-26" target="Vg6k-1ELXh36zQkVJUQH-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="515" y="381" as="sourcePoint" />
+            <mxPoint x="515" y="404" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
